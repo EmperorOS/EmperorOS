@@ -1,0 +1,9 @@
+NAME="EmperorOS"
+BASED_NAME="Fedora Linux"
+BASED_VERSION="42 (Workstation Edition)"
+RELEASE_TYPE=stable
+ID=emperor
+LOGO_COLOR=33m
+VERSION_ID=10
+VERSION_CODENAME=""
+PRETTY_NAME="EmperorOS 10"
